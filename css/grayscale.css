@@ -63,7 +63,7 @@
     color: #852222;
   }
   #mainNav.navbar-shrink {
-    background-color: #000;
+    background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;
@@ -305,8 +305,8 @@ footer {
 
 .Logo {
 
-width: 250px;
-height: 200px;
+width: 140px;
+height: 90px;
 margin-top: 10px;
 }
 
